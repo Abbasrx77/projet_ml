@@ -1,0 +1,7 @@
+{
+  "best_model": "svm_rbf",
+  "macro_f1": 0.7609108276880492,
+  "cv_folds": 5,
+  "train_samples": 248,
+  "feature_count": 47
+}
